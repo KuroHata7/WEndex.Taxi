@@ -1,0 +1,5 @@
+[requires]
+Poco/1.10.1@pocoproject/stable
+
+[generators]
+cmake
